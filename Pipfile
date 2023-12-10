@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 djoser = "*"
 django-filter = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 

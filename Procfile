@@ -1,0 +1,1 @@
+web: gunicorn LittleLemonFinal.wsgi
